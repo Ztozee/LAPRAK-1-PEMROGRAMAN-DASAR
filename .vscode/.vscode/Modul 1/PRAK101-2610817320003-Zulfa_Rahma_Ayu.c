@@ -15,5 +15,4 @@ int main() {
     printf("Jumlah variabel tersebut adalah %d\n", hasil);
     
     return 0;
-    
 }
