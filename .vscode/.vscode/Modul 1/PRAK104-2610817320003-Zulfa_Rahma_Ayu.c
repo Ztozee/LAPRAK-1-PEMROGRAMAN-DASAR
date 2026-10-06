@@ -19,5 +19,5 @@ int main() {
     printf("Sepatu A mendapat diskon 13%% sehingga harganya menjadi %d\n", HargaA);
     printf("Sepatu B mendapat diskon 21%% sehingga harganya menjadi %d\n", HargaB);
 
-
+    return 0;
 }

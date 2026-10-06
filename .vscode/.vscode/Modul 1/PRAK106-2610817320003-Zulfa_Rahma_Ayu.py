@@ -1,6 +1,7 @@
 a = 4
 b = 8
 c = 3
+
 hasil1 = int(a == b)
 hasil2 = int(b > c)
 hasil3 = int(a != c)

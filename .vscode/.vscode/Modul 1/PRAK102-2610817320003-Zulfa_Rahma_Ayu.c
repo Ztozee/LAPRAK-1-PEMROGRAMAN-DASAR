@@ -18,5 +18,4 @@ int main() {
     printf("Hasil dari a dikali b dibagi c adalah %f\n", pembagian);
 
     return 0;
-
 }
